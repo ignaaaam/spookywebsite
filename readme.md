@@ -5,3 +5,5 @@ Its Halloween time! This is a project made to practice with HTML - CSS & JS. Sta
 Check my work here &#8594; [Halloween website](https://www.spookyhalloween.art/)
 
 Hope you have a scary halloween night!
+
+![Website Showcase](https://github.com/iamatnuria/spookywebsite/blob/main/website_showcase.png "Website Showcase")
